@@ -24,9 +24,9 @@ _(Replace with your Netlify link)_
 
 ##  Features
 
-- Full-page entrance animation ✨  
+- Full-page entrance animation  
 - Framer Motion card transitions  
-- Scroll-to-top floating button ⬆️  
+- Scroll-to-top floating button  
 - Responsive and mobile-ready  
 - Clean, techy dark mode by default  
 - Accessible email contact form  
