@@ -1,12 +1,48 @@
-# React + Vite
+#  Enoch.dev — My Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A bold, futuristic personal portfolio showcasing my work in AI, embedded systems, and full-stack development — complete with dark mode, framer motion animations, and a glowing modern UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+##  Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ [enoch-portfolio.netlify.app](https://enoch-portfolio.netlify.app)  
+_(Replace with your Netlify link)_
+
+---
+
+## Built With
+
+-  React (Vite)
+-  Tailwind CSS
+-  Dark Mode (manual toggle)
+-  Framer Motion
+- Contact Form via [FormSubmit](https://formsubmit.co)
+
+---
+
+##  Features
+
+- Full-page entrance animation ✨  
+- Framer Motion card transitions  
+- Scroll-to-top floating button ⬆️  
+- Responsive and mobile-ready  
+- Clean, techy dark mode by default  
+- Accessible email contact form  
+- Smooth section scroll navigation  
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/your-username/enoch-portfolio.git
+cd enoch-portfolio
+npm install
+npm run dev
+
+## Contact
+- Email me at: enochowoade@gmail.com
+-  [Linkedin](https://www.linkedin.com/in/enoch-owoade/) 
+-  [Github](https://www.github.com/Enochteo) 
