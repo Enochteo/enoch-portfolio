@@ -2,6 +2,12 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
+    title: "🎥 Smart Security Camera AI",
+    description: "An AI-powered camera system using OpenCV and YOLO for real-time object/person detection with a Flask-based web dashboard.",
+    tech: ["Python", "OpenCV", "YOLOv8", "Flask", "Bootstrap"],
+    link: "https://github.com/Enochteo/Smart-AI-Security-Cam"
+  },
+  {
     title: "🧠 SmartCV: Resume Analyzer",
     description: "An AI-powered web app that scans, scores, and rewrites resumes to match job descriptions using NLP and heatmaps.",
     tech: ["Python", "Django", "Bootstrap", "Matplotlib"],
@@ -20,6 +26,7 @@ const projects = [
     link: "https://github.com/Enochteo/SOLARCARE"
   }
 ];
+
 
 const Projects = () => {
   return (
