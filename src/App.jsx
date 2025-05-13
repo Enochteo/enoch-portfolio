@@ -2,6 +2,8 @@ import Navbar from './Navbar';
 import Hero from './Hero';
 import Projects from './Projects';
 import Contact from './Contact';
+import Footer from './components/Footer';
+import Profile from './components/Profile';
 import { motion } from 'framer-motion';
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
       <Hero />
       <Projects />
       <Contact />
+      <Profile />
+      <Footer />
 
       {/* Scroll to top button */}
       <button
