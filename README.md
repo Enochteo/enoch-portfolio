@@ -7,8 +7,7 @@ A bold, futuristic personal portfolio showcasing my work in AI, embedded systems
 
 ##  Live WebApp
 
- [enoch-portfolio.netlify.app](https://enoch-portfolio.netlify.app)  
-
+ [Enoch's portfolio](https://enochsportfolio.netlify.app/)
 ---
 
 ## Built With
