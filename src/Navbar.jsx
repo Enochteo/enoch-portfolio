@@ -17,8 +17,8 @@ const Navbar = () => {
           <ul className="flex gap-6 list-none text-white font-medium">
             <li><a href="#hero" className="hover:text-cyan-400 transition">Home</a></li>
             <li><a href="#projects" className="hover:text-cyan-400 transition">Projects</a></li>
-            <li><a href="#contact" className="hover:text-cyan-400 transition">Contact</a></li>
             <li><a href="#profile" className="hover:text-indigo-600 transition duration-300">About</a></li>
+            <li><a href="#contact" className="hover:text-cyan-400 transition">Contact</a></li>
 
           </ul>
 

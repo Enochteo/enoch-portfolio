@@ -10,7 +10,7 @@ const Hero = () => {
         👋 Hey, I'm <span className="text-cyan-400">Enoch</span>
       </h1>
       <p className="text-xl md:text-2xl font-light mb-8 max-w-xl text-gray-300 dark:text-gray-400">
-        I craft intelligent tech — from AI tools to embedded systems. Clean, powerful, future-forward.
+        I craft intelligent tech, from AI tools to embedded systems. My work could be described as clean, powerful, future-forward.
       </p>
       <motion.a
         href="#projects"

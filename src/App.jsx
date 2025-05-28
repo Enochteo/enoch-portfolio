@@ -16,8 +16,8 @@ function App() {
       <Navbar />
       <Hero />
       <Projects />
-      <Contact />
       <Profile />
+      <Contact />
       <Footer />
 
       {/* Scroll to top button */}
