@@ -24,13 +24,13 @@ export default function Profile() {
 
       <p className="text-xl font-semibold text-gray-800 dark:text-gray-200">Enoch Owoade</p>
       <p className="text-gray-600 dark:text-gray-400">
-        Embedded Systems & AI Developer | Passionate about building real-world impact
+        Web, Embedded Systems & AI Developer | Passionate about building projects with real-world impact
       </p>
 
       <div className="flex justify-center gap-6 mt-4 text-2xl text-indigo-600 dark:text-indigo-400">
         <a href="https://github.com/Enochteo" target="_blank" rel="noreferrer"><FaGithub /></a>
         <a href="https://linkedin.com/in/enoch-owoade" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-        <a href="mailto:eowoade@gsumail.gram.edu"><FaEnvelope /></a>
+        <a href="mailto:enochowoade@gmail.com"><FaEnvelope /></a>
       </div>
     </section>
   );

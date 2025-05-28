@@ -2,16 +2,28 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
-    title: "🎥 Smart Security Camera AI",
-    description: "An AI-powered camera system using OpenCV and YOLO for real-time object/person detection with a Flask-based web dashboard.",
-    tech: ["Python", "OpenCV", "YOLOv8", "Flask", "Bootstrap"],
+    title: "🧠 SmartCV: Resume Analyzer",
+    description: "An AI-powered web app that scans, scores, and rewrites resumes to match job descriptions using NLP and heatmaps.",
+    tech: ["Python", "Django", "Bootstrap", "Matplotlib", "OpenAI API"],
+    link: "https://github.com/Enochteo/resume-analyzer"
+  },
+  {
+    title: "🧑‍💼📋✅ Attendance System with Anti-spoofing",
+    description: "AI-powered attendance marking system that uses face recognition and EAR liveness to record student attendance and prevent spoofing",
+    tech: ["Flask", "OpenCV", "face_recognition", "MediaPipe"],
+    link: "https://github.com/Enochteo/smart-attendance-system"
+  },
+  {
+    title: "🎥 AI Security Camera",
+    description: "An AI-powered security camera system using OpenCV and YOLO for real-time object/person detection with a Flask-based web dashboard.",
+    tech: ["OpenCV", "YOLOv8", "Flask", "Bootstrap", "Gmail SMTP"],
     link: "https://github.com/Enochteo/Smart-AI-Security-Cam"
   },
   {
-    title: "🧠 SmartCV: Resume Analyzer",
-    description: "An AI-powered web app that scans, scores, and rewrites resumes to match job descriptions using NLP and heatmaps.",
-    tech: ["Python", "Django", "Bootstrap", "Matplotlib"],
-    link: "https://github.com/Enochteo/resume-analyzer"
+    title: "🌞 Solar Tracker with ESP32",
+    description: "Embedded system using LDRs, servo motors, and ESP32 to auto-track sunlight and log voltage/temp data.",
+    tech: ["C++", "ESP32", "Arduino", "Sensors"],
+    link: "https://github.com/Enochteo/SOLARCARE"
   },
   {
     title: "💊 CS-Pharmacy Management System",
@@ -19,12 +31,6 @@ const projects = [
     tech: ["Django", "HTML/CSS", "SQLite"],
     link: "https://github.com/Enochteo/cs-pharmacy"
   },
-  {
-    title: "🌞 Solar Tracker with ESP32",
-    description: "Embedded system using LDRs, servo motors, and ESP32 to auto-track sunlight and log voltage/temp data.",
-    tech: ["C++", "ESP32", "Arduino", "Sensors"],
-    link: "https://github.com/Enochteo/SOLARCARE"
-  }
 ];
 
 
