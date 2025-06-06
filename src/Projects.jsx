@@ -29,7 +29,7 @@ const projects = [
     title: "💊 CS-Pharmacy Management System",
     description: "A Django-based app that lets pharmacists manage prescriptions, send email alerts, and authenticate users.",
     tech: ["Django", "HTML/CSS", "SQLite"],
-    link: "https://github.com/Enochteo/cs-pharmacy"
+    link: "https://github.com/Enochteo/CS-PROJECT"
   },
 ];
 
