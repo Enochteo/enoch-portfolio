@@ -1,4 +1,4 @@
-#  Enoch.dev — My Personal Portfolio
+#  Enoch — My Personal Portfolio
 
 
 A bold, futuristic personal portfolio showcasing my work in AI, embedded systems, and full-stack development — complete with dark mode, framer motion animations, and a glowing modern UI.
@@ -41,7 +41,7 @@ git clone https://github.com/your-username/enoch-portfolio.git
 cd enoch-portfolio
 npm install
 npm run dev
-
+```
 ## Contact
 - Email me at: enochowoade@gmail.com
 -  [Linkedin](https://www.linkedin.com/in/enoch-owoade/) 
