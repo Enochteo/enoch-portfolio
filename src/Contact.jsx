@@ -13,7 +13,7 @@ const Contact = () => {
             className="space-y-4"
           >
             {/* ✅ Hidden fields */}
-            <input type="hidden" name="_next" value="https://your-site.netlify.app/thank-you.html" />
+            <input type="hidden" name="_next" value="https://enochsportfolio.netlify.app/thank-you.html" />
             <input type="hidden" name="_captcha" value="false" />
             <input type="hidden" name="_autoresponse" value="Thanks for reaching out! I’ll get back to you soon. 😊" />
   
