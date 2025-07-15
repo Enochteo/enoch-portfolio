@@ -4,7 +4,7 @@ const projects = [
   {
     title: "🧠 SmartCV: Resume Analyzer",
     description: "An AI-powered web app that scans, scores, and rewrites resumes to match job descriptions using NLP and heatmaps.",
-    tech: ["Python", "Django", "Bootstrap", "Matplotlib", "OpenAI API"],
+    tech: ["Python", "Django", "Bootstrap", "OpenAI API"],
     link: "https://github.com/Enochteo/resume-analyzer"
   },
   {
