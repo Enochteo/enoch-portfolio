@@ -8,7 +8,7 @@ const projects = [
     link: "https://github.com/Enochteo/resume-analyzer"
   },
   {
-    title: "🧑‍💼📋✅ Attendance System with Anti-spoofing",
+    title: "🧑‍💼📋 Attendance System with Anti-spoofing",
     description: "AI-powered attendance marking system that uses face recognition and EAR liveness to record student attendance and prevent spoofing",
     tech: ["Flask", "OpenCV", "face_recognition", "MediaPipe"],
     link: "https://github.com/Enochteo/smart-attendance-system"
@@ -19,11 +19,12 @@ const projects = [
     tech: ["OpenCV", "YOLOv8", "Flask", "Bootstrap", "Gmail SMTP"],
     link: "https://github.com/Enochteo/Smart-AI-Security-Cam"
   },
+  ,
   {
-    title: "🌞 Solar Tracker with ESP32",
-    description: "Embedded system using LDRs, servo motors, and ESP32 to auto-track sunlight and log voltage/temp data.",
-    tech: ["C++", "ESP32", "Arduino", "Sensors"],
-    link: "https://github.com/Enochteo/SOLARCARE"
+    title: "🏠 Home Automation Dashboard",
+    description: "A web Dashboard for an IoT system designed to monitor and control smart home devices using data read from environmental sensors",
+    tech: ["Flask", "IoT", "Http", "Chart.js", "ESP", "Platform IO"],
+    link: "https://github.com/Enochteo/Home-automation-project"
   },
   {
     title: "💊 CS-Pharmacy Management System",
@@ -31,6 +32,12 @@ const projects = [
     tech: ["Django", "HTML/CSS", "SQLite"],
     link: "https://github.com/Enochteo/CS-PROJECT"
   },
+  {
+    title: "🌞 Solar Tracker with ESP32",
+    description: "Embedded system using LDRs, servo motors, and ESP32 to auto-track sunlight and log voltage/temp data.",
+    tech: ["C++", "ESP32", "Arduino", "Sensors"],
+    link: "https://github.com/Enochteo/SOLARCARE"
+  }
 ];
 
 
