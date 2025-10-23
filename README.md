@@ -34,14 +34,6 @@ A bold, futuristic personal portfolio showcasing my work in AI, embedded systems
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/your-username/enoch-portfolio.git
-cd enoch-portfolio
-npm install
-npm run dev
-```
 ## Contact
 - Email me at: enochowoade@gmail.com
 -  [Linkedin](https://www.linkedin.com/in/enoch-owoade/) 
