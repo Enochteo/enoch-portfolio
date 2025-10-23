@@ -26,7 +26,7 @@ const Navbar = () => {
             onClick={toggleDarkMode}
             className="ml-4 text-sm px-3 py-1 border border-cyan-400 text-cyan-400 rounded hover:bg-cyan-400 hover:text-black transition"
           >
-            {darkMode ? '🌞' : '🌙'}
+            {darkMode ? '🌞 Dark Mode' : '🌙 Light Mode'}
           </button>
         </div>
       </nav>
